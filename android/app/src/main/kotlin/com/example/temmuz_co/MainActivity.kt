@@ -1,4 +1,4 @@
-package com.wanderlust.user
+package com.wanderlust.admin
 
 import io.flutter.embedding.android.FlutterActivity
 

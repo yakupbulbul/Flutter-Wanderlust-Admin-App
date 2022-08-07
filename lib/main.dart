@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Wanderlust',
+      title: 'Wanderlust Admin',
       theme: ThemeData(
         primaryColor: Color.fromARGB(255, 195, 144, 23),
         splashColor: Colors.transparent,

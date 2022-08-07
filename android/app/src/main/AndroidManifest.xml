@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.wanderlust.user">
+    package="com.wanderlust.admin">
    <application
-        android:label="Wanderlust"
+        android:label="Wanderlust Admin"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher"
         android:usesCleartextTraffic="true">

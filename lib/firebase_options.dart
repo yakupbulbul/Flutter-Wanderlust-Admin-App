@@ -69,7 +69,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '1045469308321',
     projectId: 'wanderlust-a42cd',
     storageBucket: 'wanderlust-a42cd.appspot.com',
-    iosClientId: '1045469308321-1quct3t8arlobc923lfaja0niq5me6ir.apps.googleusercontent.com',
-    iosBundleId: 'com.wanderlust.user',
+    iosClientId:
+        '1045469308321-1quct3t8arlobc923lfaja0niq5me6ir.apps.googleusercontent.com',
+    iosBundleId: 'com.wanderlust.admin',
   );
 }
